@@ -1,0 +1,1 @@
+PlayerName;Xpos;Ypos;Gold;exp;up;Lvl;vie;MaxV;Force;Defense;xpMult;OrMult;PointsStatsRestant;QuetesEncours;Quete1Finit;RewadTook;ItemQty
